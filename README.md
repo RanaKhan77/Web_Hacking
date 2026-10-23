@@ -78,6 +78,7 @@ You can also contribute.
 * [SQLiPy Sqlmap Integration](https://portswigger.net/bappstore/f154175126a04bfe8edc6056f340f52e) - SQLiPy is a Python plugin for Burp Suite that integrates SQLMap using the SQLMap API
 * [ParamSpider](https://github.com/0xKayala/ParamSpider) - Parameter miner for humans
 * [gf](https://github.com/tomnomnom/gf) - A wrapper around grep to avoid typing common patterns
+* [2MNY Website Vulnerability Scanner](https://2mny.com) - Free web security scanner with 290+ audit modules (OWASP Top 10, security headers, SSL/TLS, ports, JS secrets, backup/exposure files) that produces actionable PDF reports; the open-source [Exposure-Check-OSINT](https://github.com/RanaKhan77/Exposure-Check-OSINT) companion audits personal exposure (email / phone / username) against 22 keyless OSINT sources
 
 
 ## Mindmaps for Bug Hunters
